@@ -3,3 +3,4 @@
 - [전략 패턴](./src/main/java/chapter01/Strategy-Pattern.md)
 - [옵저버 패턴](./src/main/java/chapter02/Observer-Pattern.md)
 - [데코레이터 패턴](./src/main/java/chapter03/Decorator-Pattern.md)
+- [팩토리 메소드 패턴](./src/main/java/chapter04/Factory-Method-Pattern.md)
