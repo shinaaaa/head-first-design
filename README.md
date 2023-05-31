@@ -5,3 +5,4 @@
 - [데코레이터 패턴](./src/main/java/chapter03/Decorator-Pattern.md)
 - [팩토리 메소드 패턴](./src/main/java/chapter04/Factory-Method-Pattern.md)
 - [싱글턴 패턴](./src/main/java/chapter05/Singleton-Pattern.md)
+- [커맨드 패턴](./src/main/java/chapter06/Command-Pattern.md)
